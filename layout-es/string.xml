@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Infogram</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="password">Contrasena</string>
+</resources>
